@@ -1,0 +1,22 @@
+{ "name": "doze"
+, "version": "0.0.1"
+, "main": "./doze.js"
+, "description": "idle player daemon for c3d2 LED walls"
+, "author": { "name": "sebseb7"
+  	    , "email": "seb@exse.net"
+ 	    , "web": "http://ddfpv.de/"
+ 	    }
+, "dependencies": { }
+, "repositories": [{ "type": "git"
+		   , "path": "git://github.com/sebseb7/doze.git"
+		   }]
+, "homepage": "https://github.com/sebseb7/doze"
+, "bugs": "https://github.com/sebseb7/doze/issues"
+, "maintainers": [{ "name": "sebseb7"
+		  , "email": "seb@exse.net"
+		  , "web": "http://ddfpv.de/"
+		 }]
+, "licenses": [{ "type": "APL" }]
+, "engines": { "node": ">=0.8.0" }
+}
+
